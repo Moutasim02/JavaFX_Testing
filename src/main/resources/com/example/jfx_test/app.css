@@ -1,0 +1,13 @@
+.root {
+    -fx-background-color:"yellow"; /*can use hex too*/
+}
+
+.label {
+    -fx-font-size:20;
+    -fx-font-family:"Lucida Console";
+    -fx-text-fill:"black";
+    -fx-alignment: center;
+}
+#titleLabel{
+
+}
