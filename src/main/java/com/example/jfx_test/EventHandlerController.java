@@ -4,7 +4,7 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.shape.Circle;
 
-public class EventController {
+public class EventHandlerController {
 
     @FXML
     private Circle myCircle;

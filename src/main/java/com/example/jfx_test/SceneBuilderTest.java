@@ -14,7 +14,7 @@ public class SceneBuilderTest extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {
-        Parent root = new FXMLLoader().load(getClass().getResource("sampleView.fxml"));
+        Parent root = new FXMLLoader().load(getClass().getResource("sceneBuilder.fxml"));
         stage.setTitle("Scene Builder Test");
         stage.setScene(new Scene(root));
         stage.show();
